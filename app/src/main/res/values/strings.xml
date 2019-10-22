@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SlidingPuzzleApp</string>
+    <string name="movesSoFar">Moves So far:</string>
+    <string name="imageContentDes">SlidingPuzzleImages</string>
+    <string name="newPuzzle">New Puzzle</string>
+    <string name="solvePuzzle">Solve Puzzle</string>
+    <string name="outputResult">Congrats</string>
+</resources>

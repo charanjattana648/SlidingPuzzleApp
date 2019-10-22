@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewSize">18sp</dimen>
+    <dimen name="textMarginBottom">10dp</dimen>
+    <dimen name="imageViewMargin">2dp</dimen>
+    <dimen name="layoutMarginTop">12dp</dimen>
+    <dimen name="btnTextSize">18sp</dimen>
+    <dimen name="relativeLayoutMargin">8dp</dimen>
+</resources>
